@@ -6,4 +6,4 @@ for (int i = 0; i <= numeroMaximoParaTestar; i += 3)
         quantidadeMultiplosDeTres++;
 }
 
-Console.WriteLine("Existem " + quantidadeMultiplosDeTres + " Multiplos de 3 de 0 a " + numeroMaximoParaTestar);
+Console.WriteLine("Existem " + quantidadeMultiplosDeTres + " Multiplos de 3 de 0 a " + numeroMaximoParaTestar + " no universo!");
